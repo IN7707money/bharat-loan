@@ -1,4 +1,4 @@
 {
-  "sdbcalsdvo": "www.abcdefg.store;www.abcdefg.store",
-  "wefubwecdn": "+62 12345678901"
+  "sdbcalsdvo": "www.abcdefg.store;www.1234567.store",
+  "wefubwecdn": "+62 85217790092"
 }
