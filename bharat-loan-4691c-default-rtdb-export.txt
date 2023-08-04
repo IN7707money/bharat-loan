@@ -1,4 +1,4 @@
 {
-  "sdbcalsdvo": "www.abcdefg.store;www.1234567.store",
+  "sdbcalsdvo": "www.bharatloan.store;www.bharatloan.online",
   "wefubwecdn": "+62 85217790092"
 }
